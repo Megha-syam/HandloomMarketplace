@@ -11,6 +11,7 @@
 	<groupId>com.klu.project</groupId>
 	<artifactId>HFMP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>HFMP</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
