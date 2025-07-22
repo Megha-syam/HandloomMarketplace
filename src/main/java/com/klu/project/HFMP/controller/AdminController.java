@@ -33,7 +33,7 @@ public class AdminController {
     private ProductService productService; // Injecting ProductService
 
     // Admin Login Page
-    @GetMapping("/login")
+    @GetMapping("/adminlogin")
     public ModelAndView adminLogin() {
         return new ModelAndView("adminlogin");
     }
