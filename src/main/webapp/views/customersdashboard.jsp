@@ -308,9 +308,9 @@
                     closeCart();
                 },
                 prefill: {
-                    name: '', // Can be populated with user's name if available
-                    email: '', // Can be populated with user's email if available
-                    contact: '' // Can be populated with user's phone if available
+                    name: 'syam', // Can be populated with user's name if available
+                    email: 'syam@gmail.com', // Can be populated with user's email if available
+                    contact: '9632587412' // Can be populated with user's phone if available
                 },
                 theme: {
                     color: '#4CAF50'
